@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**lyne-jy/lyne-jy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Computer Science at the University of Calgary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m currently open to any project collaboration or internship opportunity :)
+
+- 🔭 I’m currently working on a side project (Windows app using .NET)
+
+- 📫 How to reach me: Email, my website, Discord or LinkedIn
+
+- 😄 Pronouns: He/him
+
+- 🥰 Interests: 📷 Photography, 🥾 Hiking, 🚗 Road Tripping. (Love 🏔️Canadian Rockies)
+
+- ⚡ Fun fact: I do compose music, though no one would ever want to hear it 🤣
