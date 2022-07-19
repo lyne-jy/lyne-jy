@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a side project (Windows app using .NET)
 
-- 📫 How to reach me: Email, my website, Discord or LinkedIn
+- 📫 How to reach me: Email or my website
 
 - 😄 Pronouns: He/him
 
